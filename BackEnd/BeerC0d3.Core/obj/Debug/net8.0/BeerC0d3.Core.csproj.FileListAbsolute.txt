@@ -1,0 +1,12 @@
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\bin\Debug\net8.0\BeerC0d3.Core.deps.json
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\bin\Debug\net8.0\BeerC0d3.Core.dll
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\bin\Debug\net8.0\BeerC0d3.Core.pdb
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\BeerC0d3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\BeerC0d3.Core.AssemblyInfoInputs.cache
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\BeerC0d3.Core.AssemblyInfo.cs
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\BeerC0d3.Core.csproj.CoreCompileInputs.cache
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\BeerC0d3.Core.sourcelink.json
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\BeerC0d3.Core.dll
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\refint\BeerC0d3.Core.dll
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\BeerC0d3.Core.pdb
+C:\Development\Diego\app-smc-inventory\BackEnd\BeerC0d3.Core\obj\Debug\net8.0\ref\BeerC0d3.Core.dll

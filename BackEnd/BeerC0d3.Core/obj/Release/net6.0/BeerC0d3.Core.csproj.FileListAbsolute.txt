@@ -1,0 +1,12 @@
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\bin\Release\net6.0\BeerC0d3.Core.deps.json
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\bin\Release\net6.0\BeerC0d3.Core.dll
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\bin\Release\net6.0\BeerC0d3.Core.pdb
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\BeerC0d3.Core.csproj.AssemblyReference.cache
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\BeerC0d3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\BeerC0d3.Core.AssemblyInfoInputs.cache
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\BeerC0d3.Core.AssemblyInfo.cs
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\BeerC0d3.Core.csproj.CoreCompileInputs.cache
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\BeerC0d3.Core.dll
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\refint\BeerC0d3.Core.dll
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\BeerC0d3.Core.pdb
+C:\ProyectosDiego\ComiteSM\BackEnd\BeerC0d3.Core\obj\Release\net6.0\ref\BeerC0d3.Core.dll
